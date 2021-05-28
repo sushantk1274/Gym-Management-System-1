@@ -5,3 +5,4 @@ Language Used -  Java Core
 Concept Used - Swings, awt, JFrame
 (Software used) IDE Used - NetBeans
 Database Used - MySQL
+Download the build folder to run the application.
