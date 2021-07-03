@@ -1,6 +1,6 @@
 # Gym-Management-System
-The project aims at serving the department of gym by keeping a record of their employees and payments\
-Gym Management System is a desktop based application developed in Java programming language using mysql and netbeans IDE.\
+The project aims at serving the department of gym by keeping a record of their employees and payments.\
+Gym Management System is a desktop based application developed in Java programming language using mysql and netbeans IDE 8.2.\
 The application involves
 * Logging into the application
 * Add New Member
@@ -12,6 +12,6 @@ The application involves
 * Exitting from the application\
 Language Used -  Java Core \
 Concept Used - Swings, awt, JFrame\
-(Software used) IDE Used - NetBeans\
+(Software used) IDE Used - NetBeans 8.2\
 Database Used - MySQL\
 Download the build folder to run the application or download from (http://www.filedropper.com/gymmanagementsystem)
